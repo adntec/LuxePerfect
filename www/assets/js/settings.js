@@ -1,0 +1,12 @@
+var wordpress_url = "http://luxeperfect-app.jinola.net";
+var wordpress_per_page = 10;
+var request_timeout = 30000;
+var open_target_blank = true;
+var date_format = "d MMM y HH:mm";
+var onesignal_app_id = "7eb390b5-2a3f-4d30-ae2a-a58c69d29485";
+var application_language = "fr";
+var google_analytics = "UA-110237554-1";
+var admob_android_banner = 'ca-app-pub-4024139473298015/3530874142';
+var admob_android_interstitial = 'ca-app-pub-4024139473298015/6789971614';
+var admob_ios_banner = 'ca-app-pub-4024139473298015/1982822904';
+var admob_ios_interstitial = 'ca-app-pub-4024139473298015/6660434510';
