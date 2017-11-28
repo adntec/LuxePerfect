@@ -9,7 +9,7 @@
 			"button": "OK"
 		},
 		"disconnect": "Vérifiez votre connexion internet svp",
-		"no_data": "Approvisionnement du stock très bientôt",
+		"no_data": "Approvisionnement du stock...",
 		"to_price": " - ",
 		"username": "Nom d'utilisateur *",
 		"email": "E-mail *",
@@ -43,9 +43,9 @@
 		"account": "Moi"
 	},
 	"home": {
-		"deal": "L'affaire du jour",
+		"deal": "Les offres du moment",
 		"sale": "en vente",
-		"latest": "Nouveautés",
+		"latest": "Les nouveautés chez nous",
 		"all": "Tout",
 		"viewAll": "Tout afficher",
 		"categories": "Nos catégories",
@@ -116,8 +116,8 @@
 		]
 	},
 	"search": {
-		"title": "Rechercher vos articles",
-		"no_result": "Pas de résultat...",
+		"title": "Rechercher sur notre boutique...",
+		"no_result": "Pas de résultat",
 		"sold": "Vendu: "
 	},
 	"account": {
@@ -142,7 +142,7 @@
 			"cancel": "Annuler"
 		},
 		"app_share": "Partagez notre application",
-		"rate_us": "Évaluez nous svp",
+		"rate_us": "Évaluez notre application svp",
 		"terms_of_use": "Conditions d'utilisation",
 		"privacy_policy": "Politique de confidentialité",
 		"contact_us": "Contactez-nous",
@@ -150,7 +150,7 @@
 		"version": "Version 1.0.2"
 	},
 	"login": {
-		"title": "Connexion",
+		"title": "Espace client",
 		"forgot_password": "Mot de passe oublié?",
 		"signupText": "Nouveau client? Inscrivez-vous maintenant ! ",
 		"signup": "Cliquez ici pour vous inscrire sur LuxePerfect !",
@@ -162,9 +162,9 @@
 		"forgot_success": "Lien envoyé avec succès"
 	},
 	"signup": {
-		"title": "Inscription gratuite",
+		"title": "Inscription Nouveau client",
 		"confirm_password": "Confirmez le mot de passe *",
-		"login": "Vous avez déjà un compte? Connectez-vous",
+		"login": "Vous avez déjà un compte client sur LuxePerfect ? Connectez-vous par ici",
 		"success": "Inscription complète"
 	},
 	"cart": {
@@ -202,15 +202,15 @@
 		"size": "Taille",
 		"quantity": "Quantité",
 		"price": "Prix Total",
-		"buyer_protection": "Protection des clients",
-		"buyer_protection_text": "Les retours de marchandises sont acceptés s'ils ne sont pas conforment à la description lors de la livraison. Le vendeur paiera les frais de retour ou vous les remplacera. Les clients peuvent aussi garder les produits et accepter le remboursement avec le vendeur.",
-		"about_this_item": "A propos de ce article",
+		"buyer_protection": "Protection de nos clients",
+		"buyer_protection_text": "Vos articles commandés vous sont livrés en main propre à l'endroit que vous souhaitez. Que ce soit pour des cadeaux, des surprises ou simplement pour vos courses habituelles.",
+		"about_this_item": "A propos de cet article",
 		"sku": "SKU",
 		"available": "disponible",
 		"item_description": "Description",
 		"view_more": "Voir plus",
 		"view_less": "Voir moins",
-		"buy_the_look": "Acheter le look",
+		"buy_the_look": "Complétez votre panier",
 		"favorite": {
 			"add": "Ajouté à la liste de souhaits",
 			"remove": "Retiré de la liste de souhaits"
@@ -220,26 +220,26 @@
 			"before": "Vous ne pouvez pas ajouter un(e) autre \"",
 			"after": "\" à votre panier."
 		},
-		"add": "Ajouté",
+		"add": "Article ajouté",
 		"addOut": "Ajouté avec succès, plus d'articles restant en stock",
 		"outStock": "En rupture de stock",
 		"grouped": {
 			"variable": "Option >",
 			"button": "OK"
 		},
-		"have_not_variation": "n'a pas la variation que vous souhaité",
+		"have_not_variation": "n'a pas la variation que vous souhaitez",
 		"height": "Hauteur",
 		"length": "Longueur",
 		"width": "Largeur"
 	},
 	"comments": {
-		"title": "Tous les commentateurs",
+		"title": "Tous les commentaires",
 		"ratings_reviews": "Notes et Avis",
 		"rating": "évaluation",
-		"button": "ÉVALUEZ-NOUS ET ÉCRIVEZ UN AVIS"
+		"button": "ÉVALUEZ NOS ARTICLES ET ÉCRIVEZ UN AVIS"
 	},
 	"rating": {
-		"title": "Donnez votre avis",
+		"title": "Partagez votre avis",
 		"comment_about": "Commentaire sur ce produit",
 		"your_rating": "Votre évaluation:",
 		"name": "Nom",
@@ -292,9 +292,9 @@
 		"title": "Favoris",
 		"clear": {
 			"title": "Supprimer",
-			"message": "Supprimer tous les favoriss?",
-			"no": "NON",
-			"yes": "OUI"
+			"message": "Supprimer tous les favoris?",
+			"no": "Non, merci!",
+			"yes": "Oui, svp"
 		},
 		"empty": "Choisissez au moins un article",
 		"shop": "Achetez Maintenant !"
@@ -319,7 +319,7 @@
 		]
 	},
 	"contact": {
-		"title": "Nous contacter",
+		"title": "Contactez-nous",
 		"about": "A propos",
 		"send_a_message": "Laissez-nous un message",
 		"name": "Nom",
